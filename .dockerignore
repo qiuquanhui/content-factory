@@ -1,0 +1,16 @@
+node_modules/
+.git/
+.codex/
+.agents/
+.aws/
+dist/
+.vercel
+.output
+.vinxi
+.cache
+.data
+.wrangler
+.env
+.env.*
+dev-dist
+*.tsbuildinfo

@@ -1,0 +1,68 @@
+{
+  "research_date": "2026-10-14",
+  "timezone": "Asia/Shanghai",
+  "method": "Public GitHub REST repository, commits, recursive tree, issue search endpoints and pinned raw source inspection",
+  "notes": [
+    "Metrics were fetched sequentially during one research session, not atomically.",
+    "Issue counts use is:issue to exclude pull requests.",
+    "Repository open_issues_count includes open pull requests.",
+    "Closed issue counts do not mean fixed defect counts.",
+    "No build, test execution, application startup, or platform collection was performed."
+  ],
+  "repositories": [
+    {
+      "name": "newsnext/newsnow",
+      "previous_name": "ourongxing/newsnow",
+      "url": "https://github.com/newsnext/newsnow",
+      "stars": 22031,
+      "forks": 5995,
+      "open_issues": 142,
+      "closed_issues": 102,
+      "open_issues_including_prs": 158,
+      "archived": false,
+      "license": "MIT",
+      "language": "TypeScript",
+      "default_branch": "main",
+      "head_sha": "0560c993b226cd2fd07d8a79875d50551f52c584",
+      "head_committed_at": "2026-10-13T04:47:07Z",
+      "pushed_at": "2026-10-13T04:47:17Z",
+      "package_version": "0.0.43",
+      "maintenance_note": "README announces NewsNext and says external contributions are no longer accepted; recent source fixes still exist."
+    },
+    {
+      "name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "stars": 62895,
+      "forks": 24904,
+      "open_issues": 29,
+      "closed_issues": 470,
+      "open_issues_including_prs": 31,
+      "archived": false,
+      "license": "GPL-3.0",
+      "language": "Python",
+      "default_branch": "master",
+      "head_sha": "ceabb027fe9bbdafec59dbbfa12cb46c2ba256ce",
+      "head_committed_at": "2026-10-13T13:21:32Z",
+      "pushed_at": "2026-10-13T13:22:01Z",
+      "package_version": "6.11.0",
+      "dependency_note": "Hot-list DataFetcher calls NewsNow API; not an independent fallback for NewsNow source failures."
+    },
+    {
+      "name": "imsyy/DailyHotApi",
+      "url": "https://github.com/imsyy/DailyHotApi",
+      "stars": 4090,
+      "forks": 1351,
+      "open_issues": 25,
+      "closed_issues": 55,
+      "open_issues_including_prs": 30,
+      "archived": false,
+      "license": "MIT",
+      "language": "TypeScript",
+      "default_branch": "master",
+      "head_sha": "36c77e3bd891c11642d314cfb229bf31646704de",
+      "head_committed_at": "2026-03-11T10:37:37Z",
+      "pushed_at": "2026-03-11T10:38:03Z",
+      "package_version": "2.0.8"
+    }
+  ]
+}
