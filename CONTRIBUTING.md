@@ -1,6 +1,6 @@
 # 参与开发
 
-本项目是基于 NewsNow 改造的 AI 热点选题工作台。请先阅读 [文档入口](docs/README.md)、[架构说明](docs/architecture.md) 和 [扩展开发](docs/extensions.md)。
+本项目是基于 NewsNow 改造的 AI 热点选题工作台。请先阅读 [文档入口](docs/文档目录.md)、[架构说明](docs/架构说明.md) 和 [扩展开发](docs/扩展开发.md)。
 
 ## 本地验证
 
@@ -23,4 +23,4 @@ npm run typecheck
 - 保留 MIT 许可证和上游来源；复用代码前检查其许可证。
 - 功能变更同步更新对应文档，提供相关测试结果与已知限制。
 
-GitHub Actions 在 main 推送与 PR 时执行依赖安装、测试、构建和类型检查。原始上游贡献说明保留在 [docs/upstream-contributing.md](docs/upstream-contributing.md)。
+GitHub Actions 在 main 推送与 PR 时执行依赖安装、测试、构建和类型检查。原始上游贡献说明保留在 [docs/上游贡献说明.md](docs/上游贡献说明.md)。
